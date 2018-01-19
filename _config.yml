@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: yxp1992   #生成的clientID
   clientSecret: yxp1992  #同上
   repo: qiubaiying.github.io    #仓库名称
